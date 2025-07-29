@@ -7,7 +7,7 @@
 سایت شخصی من که با GitHub Pages میزبانی می‌شود.
 
 ## 🔗 لینک سایت
-[https://knox66600.github.io](https://knox66600.github.io)
+[https://github.com/knox66600/knox66600.github.io.git](https://github.com/knox66600/knox66600.github.io.git)
 
 ## ✨ ویژگی‌ها
 - طراحی ریسپانسیو
